@@ -1,4 +1,4 @@
-# Chicago Rush Home
+# Chicago Rush Home 🏙️🚗
 
 A browser-based arcade driving game inspired by Chicago rush-hour traffic.
 
