@@ -22,5 +22,6 @@ Play directly in your browser through GitHub Pages.
 
 ## Motivation
 
-Built as a small personal project to experiment with interactive web development,
-game mechanics, and browser-based visualization.
+Chicago traffic is notoriously frustrating, especially during rush hour. I built this game as a playful way to turn that everyday annoyance into something fun and hopefully make the commute feel a little less miserable.
+
+For players who do not know Chicago well, the game also serves as a small introduction to the city’s culture, geography, and history through its neighborhoods, landmarks, routes, and in-game facts.
